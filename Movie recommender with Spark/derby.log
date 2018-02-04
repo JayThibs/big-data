@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Thu Feb 01 23:49:08 AST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-54a1-d9e4-00000954f8f8 
-on database directory /Users/jacquesthibodeau/Desktop/Code/big-data/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@15f8730a 
+Sun Feb 04 17:36:18 AST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-62bf-967e-00000ddc2f90 
+on database directory /Users/jacquesthibodeau/Desktop/Code/big-data/Movie recommender with Spark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7f527e2 
 Loaded from file:/usr/local/Cellar/apache-spark/2.2.1/libexec/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_161-b12
-user.dir=/Users/jacquesthibodeau/Desktop/Code/big-data
+user.dir=/Users/jacquesthibodeau/Desktop/Code/big-data/Movie recommender with Spark
 os.name=Mac OS X
 os.arch=x86_64
 os.version=10.12.6
